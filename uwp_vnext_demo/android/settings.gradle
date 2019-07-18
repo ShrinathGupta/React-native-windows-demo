@@ -1,0 +1,3 @@
+rootProject.name = 'uwp_vnext_demo'
+
+include ':app'
