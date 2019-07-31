@@ -38,3 +38,9 @@ https://github.com/microsoft/react-native-windows/tree/master/vnext [ _Involves 
     * ScrollView
     * FlatList
     * Linking module of react-native
+
+## Contribute
+   * Star - If you like it
+   * Fork - If you like to build your own version
+   * File an issue - If you found a bug   
+   * Send a pull request - If you want to contribute
